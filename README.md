@@ -1,1 +1,1 @@
-este es un repositorio en el cual voy a clonar de github a mi computadora
+Este repositorio es necesario para empezar a entender github
